@@ -1,0 +1,23 @@
+.sidenav{
+    width: 150px;
+}
+
+.sidenav nav ul li{
+    display: grid;
+    padding: 10px;
+}
+ul li a{
+    color: skyblue;
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+}
+
+a:hover{
+    color: white;
+}
+
+.link{
+    color: chartreuse;
+}
